@@ -88,3 +88,8 @@ html, body {
 #footer a:visited {
   color: green;         /* visited link color */
 }
+
+.pagetitle {
+  color: red;
+  font-size: 27px;
+}
